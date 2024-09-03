@@ -1,0 +1,255 @@
+{
+  "heading": "Questions and Answers",
+  "topics": [
+    {
+      "heading": "Prefixes (part 1)",
+   "questions": [
+    {
+      "questionNo": 1,
+      "question": "Which word means \"to examine again for errors\"?",
+      "options": [
+        "Precheck",
+        "Mischeck",
+        "Recheck",
+        "Non-check"
+      ],
+      "answer": 2,
+      "explanation": "\"Re-\" means \"again,\" so \"recheck\" means to check again for errors."
+    },
+    {
+      "questionNo": 2,
+      "question": "Fill in the blank: He is an _____-player from our team (un / ex)",
+      "options": ["Un", "Ex"],
+      "answer": 1,
+      "explanation": "The prefix \"ex-\" indicates a former state."
+    },
+    {
+      "questionNo": 3,
+      "question": "In the word \"preemptive,\" what does \"pre-\" suggest?",
+      "options": [
+        "After the event",
+        "During the event",
+        "Before the event",
+        "Instead of the event"
+      ],
+      "answer": 2,
+      "explanation": "\"Pre-\" means \"before,\" so \"preemptive\" suggests action taken before an anticipated event."
+    },
+    {
+      "questionNo": 4,
+      "question": "Which word means \"to tell a story again\"?",
+      "options": [
+        "Pretell",
+        "Mistell",
+        "Retell",
+        "None of the above"
+      ],
+      "answer": 2,
+      "explanation": "\"Re-\" means \"again,\" so \"retell\" means to tell again."
+    },
+    {
+      "questionNo": 5,
+      "question": "Which word means \"to judge incorrectly\"?",
+      "options": [
+        "Unjudge",
+        "Nonjudge",
+        "Misjudge",
+        "Ex-judge"
+      ],
+      "answer": 2,
+      "explanation": "The prefix \"mis-\" indicates doing something wrongly. \"Misjudge\" means to judge incorrectly or form a wrong opinion."
+    },
+    {
+      "questionNo": 6,
+      "question": "Which word means \"to do something again\"?",
+      "options": [
+        "Misdo",
+        "Undo",
+        "Predo",
+        "Redo"
+      ],
+      "answer": 3,
+      "explanation": "\"Re-\" means \"again\" or \"back.\" \"Redo\" means to do something again."
+    },
+    {
+      "questionNo": 7,
+      "question": "What does \"premeditate\" mean?",
+      "options": [
+        "To think after",
+        "To think again",
+        "To think before",
+        "To think under"
+      ],
+      "answer": 2,
+      "explanation": "\"Pre-\" means \"before,\" so \"premeditate\" means to think about or plan something beforehand."
+    },
+    {
+      "questionNo": 8,
+      "question": "Fill in the blank: The chef had to ______heat the soup before serving. (un / re)",
+      "options": ["Un", "Re"],
+      "answer": 1,
+      "explanation": "\"Reheat\" means to heat again. The prefix \"re-\" indicates the repetition of an action."
+    },
+    {
+      "questionNo": 9,
+      "question": "To ______configure a system means to configure it again. (Pre / Re)",
+      "options": ["Pre", "Re"],
+      "answer": 1,
+      "explanation": "\"Re-\" means \"again,\" so to \"reconfigure\" means to configure again."
+    },
+    {
+      "questionNo": 10,
+      "question": "Which word means \"to organise again\"?",
+      "options": [
+        "Preorganise",
+        "Reorganise",
+        "Suborganise",
+        "Organiseful"
+      ],
+      "answer": 1,
+      "explanation": "\"Re-\" means \"again,\" so \"reorganise\" means to organise again or differently."
+    },
+    {
+      "questionNo": 11,
+      "question": "\"Pre-\" in \"precondition\" means ________. (Before / Again)",
+      "options": ["Before", "Again"],
+      "answer": 0,
+      "explanation": "\"Pre-\" means \"before,\" so a \"precondition\" is a condition that exists or must be met beforehand."
+    },
+    {
+      "questionNo": 12,
+      "question": "The prefix \"re-\" always means \"before.\" (True / False)",
+      "options": ["True", "False"],
+      "answer": 1,
+      "explanation": "\"Re-\" typically means \"again\" or \"back,\" not \"before.\""
+    },
+    {
+      "questionNo": 13,
+      "question": "Which word means \"impossible to believe\"?",
+      "options": [
+        "Misbelievable",
+        "Unbelievable",
+        "Nonbelievable",
+        "Exbelievable"
+      ],
+      "answer": 1,
+      "explanation": "The prefix \"un-\" means \"not.\" \"Unbelievable\" means not believable or extremely surprising."
+    },
+    {
+      "questionNo": 14,
+      "question": "Which word describes a former spouse?",
+      "options": [
+        "Misspouse",
+        "Unspouse",
+        "Nonspouse",
+        "Ex-spouse"
+      ],
+      "answer": 3,
+      "explanation": "The prefix \"ex-\" is used to indicate a former relationship or status. An \"ex-spouse\" is someone to whom one was previously married."
+    },
+    {
+      "questionNo": 15,
+      "question": "Fill in the blank: The student's ______understanding of the concept led to errors in the exam. (mis / un)",
+      "options": ["Mis", "Un"],
+      "answer": 0,
+      "explanation": "\"Misunderstanding\" implies an incorrect or flawed understanding, which fits the context better than \"un-\" (which would mean no understanding at all)."
+    },
+    {
+      "questionNo": 16,
+      "question": "Fill in the blank: The ______-fiction book was based on true events. (un / non)",
+      "options": ["Un", "Non"],
+      "answer": 1,
+      "explanation": "\"Non-fiction\" is the standard term for literature based on facts and real events, as opposed to fictional stories."
+    },
+    {
+      "questionNo": 17,
+      "question": "Which word describes something that happens before a view?",
+      "options": [
+        "Misview",
+        "Unview",
+        "Preview",
+        "Ex-view"
+      ],
+      "answer": 2,
+      "explanation": "The prefix \"pre-\" means \"before.\" A \"preview\" is a viewing before the main or public viewing."
+    },
+    {
+      "questionNo": 18,
+      "question": "Fill in the blank: The ______school program helps children prepare for kindergarten. (un / pre)",
+      "options": ["Un", "Pre"],
+      "answer": 1,
+      "explanation": "\"Preschool\" refers to education before formal schooling begins. The prefix \"pre-\" means \"before\" or \"in advance.\""
+    },
+    {
+      "questionNo": 19,
+      "question": "Which word means \"to interpret incorrectly\"?",
+      "options": [
+        "Uninterpret",
+        "Reinterpret",
+        "Misinterpret",
+        "Preinterpret"
+      ],
+      "answer": 2,
+      "explanation": "The prefix \"mis-\" indicates doing something wrongly. \"Misinterpret\" means to interpret incorrectly."
+    },
+    {
+      "questionNo": 20,
+      "question": "What does \"refurbish\" mean?",
+      "options": [
+        "To furnish before",
+        "To furnish again or renovate",
+        "To remove furnishings",
+        "Full of furnishings"
+      ],
+      "answer": 1,
+      "explanation": "\"Re-\" means \"again,\" so \"refurbish\" means to renovate or restore to a new condition."
+    },
+    {
+      "questionNo": 21,
+      "question": "Which word describes a former employee?",
+      "options": [
+        "Misemployee",
+        "Unemployee",
+        "Preemployee",
+        "Ex-employee"
+      ],
+      "answer": 3,
+      "explanation": "The prefix \"ex-\" indicates a former state or position."
+    },
+    {
+      "questionNo": 22,
+      "question": "Fill in the blank: The company decided to ______structure its departments for better efficiency. (un / re)",
+      "options": ["Un", "Re"],
+      "answer": 1,
+      "explanation": "\"Restructure\" means to organise something in a new way. The prefix \"re-\" indicates doing something again or differently."
+    },
+    {
+      "questionNo": 23,
+      "question": "The scientist needed to _______ the experiment to confirm the results.",
+      "options": [
+        "Preset",
+        "Ex-set",
+        "Repeat",
+        "All of the above"
+      ],
+      "answer": 2,
+      "explanation": "\"Re-\" means \"again,\" so \"repeat\" means to experiment again to confirm the results."
+    },
+    {
+      "questionNo": 24,
+      "question": "Fill in the blank: The company's ______-compliance with regulations resulted in heavy fines. (un / non)",
+      "options": ["un", "non"],
+      "answer": 1,
+      "explanation": "\"Non-compliance\" is the standard term for failure to comply with rules or regulations. The prefix \"non-\" indicates \"not\" or \"failure to.\""
+    },
+    {
+      "questionNo": 25,
+      "question": "Before the big game, the team had a _______ meeting to discuss their strategy. (ex-game / regame / pregame / ree-game)",
+      "options": ["ex-game", "regame", "pregame", "ree-game"],
+      "answer": 2,
+      "explanation": "\"Pre-\" means \"before,\" so a \"pregame\" meeting occurs before the game."
+    }
+
+  ]
+}]
+}
